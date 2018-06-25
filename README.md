@@ -6,7 +6,7 @@ Cards*.
 # Concepts Taught and Used
 
 CSS pseudo elements weren't taught yet, but I used one in this project. I used it to keep data
-clean, such as "*25 years*" (lifespan of a golden lion) versus "*: 15 years*".
+clean, such as "*15 years*" (lifespan of a golden lion) versus "*: 15 years*".
 
 Basic CSS selectors were taught, and they are used here.
 
