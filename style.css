@@ -1,0 +1,48 @@
+.container{
+    width: 300px;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 1px;
+    box-shadow:0 5px 5px rgba(0, 0, 0, 0.3);
+}
+   .caption {
+   margin: auto;
+   display: block;
+   text-align: left;
+   font-family: arial;
+}
+   
+
+  .Animal-picture {
+   border: 5px;
+   border-radius: 5px;
+   padding: 5px 0;
+}
+
+  .content {
+  margin: auto;
+  padding: 5px;
+  border: 1px solid lightgray;
+  border-radius: 1px;
+
+}
+
+  .information {
+  font-style: italic;
+  font-family: arial;
+  }
+  .details {
+  padding: 0;
+  list-style: none;
+  font-family: arial;
+}
+  .details.items{
+  font-style:  italic;
+  font-family: arial;
+  }
+  .details .items .label {
+  font-weight: bold;
+  font-style:  none;
+  font-family: arial;
+}
+ 
